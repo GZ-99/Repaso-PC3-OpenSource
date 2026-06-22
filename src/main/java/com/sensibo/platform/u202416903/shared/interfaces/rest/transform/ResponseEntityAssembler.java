@@ -1,7 +1,7 @@
 package com.sensibo.platform.u202416903.shared.interfaces.rest.transform;
 
-import com.acme.center.platform.shared.application.result.ApplicationError;
-import com.acme.center.platform.shared.application.result.Result;
+import com.sensibo.platform.u202416903.shared.application.result.ApplicationError;
+import com.sensibo.platform.u202416903.shared.application.result.Result;
 import org.jspecify.annotations.NullMarked;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
